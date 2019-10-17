@@ -1,8 +1,6 @@
-# MikroApp
+# Micro UI
 
-**Please note, that this project is deprecated and moved to https://github.com/openware/opendax**
-
-Rubykube wallet frontend for peatio and barong
+Rubykube wallet & trading frontend for peatio and barong
 
 ## Available Scripts
 
