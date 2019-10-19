@@ -5,9 +5,12 @@ Rubykube wallet & trading frontend for peatio and barong
 ## Donate
 
 To help keep this project regulary, please donate to either of the following addresses :)
-BTC: 1Md1tvYhqRERhdApA4G3Ss5wkuMeH9avs2
-ETH and tokens: 0x2EC6f3b0B64b82Ce6b9e6a96401380C287eBd8f4
-BCH: qrq8fdmay6kz55w7l7kec2ddlzxgc4ut6s0tna2lce
+
+**BTC:** 1Md1tvYhqRERhdApA4G3Ss5wkuMeH9avs2
+
+**ETH and tokens:** 0x2EC6f3b0B64b82Ce6b9e6a96401380C287eBd8f4
+
+**BCH:** qrq8fdmay6kz55w7l7kec2ddlzxgc4ut6s0tna2lce
 
 ## Available Scripts
 
