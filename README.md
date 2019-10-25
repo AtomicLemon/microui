@@ -1,5 +1,8 @@
 # Micro UI
 
+[![Telegram Chat](https://raster.shields.io/badge/join-Telegram-green.png)](https://t.me/microui)
+[![Docker Pulls](https://img.shields.io/docker/pulls/AtomicLemon/microui)](https://cloud.docker.com/repository/docker/atomiclemon/microui)
+
 Rubykube wallet & trading frontend for peatio and barong
 
 ## Donate
